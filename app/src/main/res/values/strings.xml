@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Intent.Calc.Web</string>
+    <string name="answer_here">ANSWER HERE</string>
+    <string name="my_calculator">MY CALCULATOR</string>
+    <string name="multiply">*</string>
+    <string name="sum">+</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="subtract">-</string>
+    <string name="enter_first_number_here">enter first number here</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+</resources>
